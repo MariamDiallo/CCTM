@@ -70,7 +70,7 @@ plt.plot(axis, list1, 'g^', axis, list2, 'bs',)
 plt.axis([-0.5, max(axis) + 0.5 , min(min(list1), min(list2)) - 5, max(max(list1),max(list2))+5])
 plt.show()
 
-
+print('It works!')
 
 
 
