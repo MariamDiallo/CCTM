@@ -5,5 +5,4 @@ Spyder Editor
 This is a temporary script file.
 """
 
-x = 2 
-print(x)
+import gdax
